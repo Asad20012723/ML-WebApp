@@ -1,11 +1,9 @@
 # ML-MT-WebApp
 
-## On request from many of you I have created a telegram chennal where your guys can post your questions and then we can have discussions there about improving this project bit further and further help you guys can get.
-### Channel link : https://t.me/mymlmt
 
-❓ ***Let me know on telegram if you guys want this project to be deployed with Docker and Kubernetes***
 
-<img src="https://cdn.activestate.com/wp-content/uploads/2018/10/machine-learning-healthcare-blog-hero-1200x799.jpg" width="1100" height="300" />
+
+<img src="https://www.designveloper.com/wp-content/uploads/2020/07/benefits-of-app-based-healthcare-services-bg.png" width="1100" height="300" />
 <p> This is one of major project of my undergraduate degree program.</p>
 <p>Here, I have developed a disease predicting web app which using the concept of machine learning makes predictions about various diseases like Malaria, Pneumonia, Diabetes etc.</p>
 
