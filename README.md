@@ -8,7 +8,7 @@
 <p>Here, I have developed a disease predicting web app which using the concept of machine learning makes predictions about various diseases like Malaria, Pneumonia, Diabetes etc.</p>
 
 <hr>
-<h3> Down below are the names of the various model files used:</h3>
+<h3> Model files used:</h3>
 <ul>
 <li><p><b>Cancer model = model</b></p></li>
 <li><p><b>Diabetes model = model1</b></p></li>
