@@ -48,16 +48,3 @@
 <li><p><b>CSS</b></p></li>
 </ul>
 
-<hr>
- <h3> For using the project clone the repository and type the following commands in the termial: </h3>
- <ul>
-  <li> $ set FLASK_APP= app.py</li>
-  <li> $ flask run</li>
-  </ul>
-  
-  <hr>
-  
-  <p> The whole project is deployed on Heroku Cloud.
-  
- <p> Here is the link where you can access the project live : https://myml-mtapp.herokuapp.com/ <p>
-  <p> Thank you!</p>
