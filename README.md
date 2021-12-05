@@ -4,7 +4,7 @@
 
 
 <img src="https://www.designveloper.com/wp-content/uploads/2020/07/benefits-of-app-based-healthcare-services-bg.png" width="1100" height="300" />
-<p> This is one of major project of my undergraduate degree program.</p>
+
 <p>Here, I have developed a disease predicting web app which using the concept of machine learning makes predictions about various diseases like Malaria, Pneumonia, Diabetes etc.</p>
 
 <hr>
