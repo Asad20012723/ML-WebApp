@@ -8,6 +8,15 @@
 <p>Here, I have developed a disease predicting web app which using the concept of machine learning makes predictions about various diseases like Malaria, Pneumonia, Diabetes etc.</p>
 
 <hr>
+
+<h3> Azure services used for project development: </h3>
+<ul>
+<li><p><b>Web Apps</b></p></li>
+<li><p><b>Health Bot</b></p></li>
+<li><p><b>Power BI Embedded</b></p></li>
+</ul>
+
+<hr>
 <h3> Model files used:</h3>
 <ul>
 <li><p><b>Cancer model = model</b></p></li>
@@ -48,11 +57,4 @@
 <li><p><b>CSS</b></p></li>
 </ul>
 
-<hr>
 
-<h3> Azure services used for project development: </h3>
-<ul>
-<li><p><b>Web Apps</b></p></li>
-<li><p><b>Health Bot</b></p></li>
-<li><p><b>Power BI Embedded</b></p></li>
-</ul>
