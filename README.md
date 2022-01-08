@@ -48,6 +48,8 @@
 <li><p><b>CSS</b></p></li>
 </ul>
 
+<hr>
+
 <h3> Azure services used for project development: </h3>
 <ul>
 <li><p><b>Web Apps</b></p></li>
