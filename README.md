@@ -48,3 +48,9 @@
 <li><p><b>CSS</b></p></li>
 </ul>
 
+<h3> Azure services used for project development: </h3>
+<ul>
+<li><p><b>Web Apps</b></p></li>
+<li><p><b>Health Bot</b></p></li>
+<li><p><b>Power BI Embedded</b></p></li>
+</ul>
